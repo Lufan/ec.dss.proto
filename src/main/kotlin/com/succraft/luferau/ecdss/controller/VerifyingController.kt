@@ -1,4 +1,4 @@
-package com.succraft.luferau.ecdss
+package com.succraft.luferau.ecdss.controller
 
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestBody

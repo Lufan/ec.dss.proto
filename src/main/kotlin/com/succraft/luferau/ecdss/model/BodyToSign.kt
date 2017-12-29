@@ -1,4 +1,4 @@
-package com.succraft.luferau.ecdss
+package com.succraft.luferau.ecdss.model
 
 data class BodyToSign(val fileType: String, val content: String) {
     val isValid: Boolean

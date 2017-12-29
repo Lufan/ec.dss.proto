@@ -1,5 +1,7 @@
-package com.succraft.luferau.ecdss
+package com.succraft.luferau.ecdss.service
 
+import com.succraft.luferau.ecdss.privateKey
+import com.succraft.luferau.ecdss.token
 import eu.europa.esig.dss.*
 import eu.europa.esig.dss.xades.XAdESSignatureParameters
 import eu.europa.esig.dss.xades.signature.XAdESService
